@@ -1,1 +1,6 @@
 # AnonymousAlley
+Hey...
+before starting the project remember to install the node packages
+use "npm i" to install the npm packages
+and then add the postgres credentials in the blank space given 
+after doing all these, you are good to go...
